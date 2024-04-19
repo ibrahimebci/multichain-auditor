@@ -1,7 +1,5 @@
 # Multichain Auditor
-
 Observations and tips for auditing protocols on multiple chains 🧐
-
 #### ✍️ Open to Contributions
 
 If you see some error, or want to add an observation, please create an issue or a PR. References are greatly appreciated. You can also contact me on Twitter at [@0xJuancito](https://twitter.com/0xJuancito).
